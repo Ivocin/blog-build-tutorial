@@ -38,6 +38,8 @@ cover: '/images/vitet.png'
 
 > 个人认为 Vue 和 Vite 的文档堪称良心了，首先就交代自己名字的发音，让全球开发者统一认知。再来看 [Svelte](https://svelte.dev/)，别说发音了，至今拼写还记不住。
 
+<!-- more -->
+
 ## Vite 是什么
 
 [视频传送 - 2:33](https://www.bilibili.com/video/BV1kh411Q7WN?t=2m33s)
