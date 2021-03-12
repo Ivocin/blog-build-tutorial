@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 清秋的博客
+subtitle: Failure is an option, but fear is not
+description: Front End, CS, Design, Translation, Art, PM
+keywords: Front End, CS, Design, Translation, Art, PM
+author: 清秋
+language: zh-CN
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://ivocin.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
